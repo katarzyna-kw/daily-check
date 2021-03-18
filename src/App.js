@@ -6,7 +6,7 @@ function App() {
       <header className="App-header">
         how are you feeling
         <span>
-          today?
+          today
         </span>?
       </header>
     </div>
