@@ -1,8 +1,8 @@
-import './Survey.css';
+import '../App.css';
 
 function Survey() {
   return (
-    <div className="Survey">
+    <div className="wrapper-survey">
         <p>
             here goes the survey form
         </p>

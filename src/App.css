@@ -2,7 +2,7 @@
   text-align: center;
 }
 
-.App-header {
+.header {
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -13,7 +13,7 @@
   font-size: 1.6rem;
 }
 
-.App-header span {
+.header span {
   font-family: 'Petit Formal Script', cursive;
   font-size: 5rem;
   text-transform: lowercase;

@@ -1,15 +1,11 @@
+import Header from './components/Header.js'
+import Survey from './components/Survey.js';
 import './App.css';
-import Survey from './components/Survey'
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        how are you feeling
-        <span>
-          today
-        </span>?
-      </header>
+      <Header />
       <Survey />
     </div>
   );
