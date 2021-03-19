@@ -14,6 +14,7 @@
 
 .App-header span {
   font-family: 'Petit Formal Script', cursive;
+  font-size: 5rem;
   text-transform: lowercase;
   color: #8670FF;
 }
