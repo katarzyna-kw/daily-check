@@ -3,7 +3,9 @@ import './Survey.css';
 function Survey() {
   return (
     <div className="Survey">
-      here goes the survey form
+        <p>
+            here goes the survey form
+        </p>
     </div>
   );
 }
