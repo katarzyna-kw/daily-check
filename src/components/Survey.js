@@ -7,6 +7,12 @@ function Survey() {
         <p>
         {surveyGoesHere}
         </p>
+        <form>
+          <label>
+            Date: 
+          </label>
+          <input type="text" />
+        </form>
     </div>
   );
 }
