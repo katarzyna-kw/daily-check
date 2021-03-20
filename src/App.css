@@ -10,13 +10,13 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: #0F0066;
-  font-size: 1.6rem;
+  font-size: 2rem;
   margin-top: 6rem;
 }
 
 .header span {
   font-family: 'Petit Formal Script', cursive;
-  font-size: 5rem;
+  font-size: 6rem;
   text-transform: lowercase;
   color: #8670FF;
   /* background-color: papayawhip; */
