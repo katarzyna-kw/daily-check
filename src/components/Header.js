@@ -4,9 +4,9 @@ function Header() {
   return (
     <div className="wrapper-header">
       <header className="header">
-        good morning
+        How are you feeling 
         <span>
-          sunshine
+          today?
         </span>
       </header>
     </div>
