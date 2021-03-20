@@ -1,10 +1,11 @@
 import '../App.css';
 
 function Survey() {
+  const surveyGoesHere = 'survey goes here';
   return (
     <div className="wrapper-survey">
         <p>
-        here goes the survey form
+        {surveyGoesHere}
         </p>
     </div>
   );
