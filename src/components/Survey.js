@@ -1,11 +1,11 @@
 import '../App.css';
 
 function Survey() {
-  const surveyHello = 'How are you feeling today?';
+  const goodMorning = 'Good morning, sunshine';
   return (
     <div className="wrapper-survey">
         <p>
-        {surveyHello}
+        {goodMorning}
         </p>
         <form>
           <label>
