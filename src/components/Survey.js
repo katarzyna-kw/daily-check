@@ -12,6 +12,7 @@ function Survey() {
             Date: 
           </label>
           <input type="text" />
+          <br></br>
           <label>
             Morning Mood: 
           </label>
