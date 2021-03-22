@@ -11,12 +11,12 @@ function Survey() {
           <label className="label">
             Date: 
           </label>
-          <input type="text" />
+          <input className="input" type="text" />
           <br></br>
           <label className="label">
-            Morning Mood: 
+            Mood: 
           </label>
-          <input type="text" />
+          <input className="input" type="text" />
           <br></br>
           <button>submit</button>
         </form>
