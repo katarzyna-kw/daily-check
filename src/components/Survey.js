@@ -17,7 +17,7 @@ function Survey() {
             Morning Mood: 
           </label>
           <input type="text" />
-
+          <button>submit</button>
         </form>
     </div>
   );
