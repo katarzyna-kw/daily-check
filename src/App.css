@@ -19,19 +19,28 @@
   font-size: 6rem;
   text-transform: lowercase;
   color: #8670FF;
-  /* background-color: papayawhip; */
   margin-top: -15px;
+}
+
+.container-survey {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
 }
 
 .wrapper-survey {
   display: flex;
   flex-direction: column;
   align-items: center;
+  justify-content: center;
+  margin-top: 30px;
 }
 
-.form {
-  padding-right: 20px;
-  text-align: center;
+
+.form input {
+  padding-left: 0;
 }
 
 .label {

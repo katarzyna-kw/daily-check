@@ -3,6 +3,7 @@ import '../App.css';
 function Survey() {
   const goodMorning = 'Good morning, sunshine';
   return (
+    <div class="container-survey">
     <div className="wrapper-survey">
         <p>
         {goodMorning}
@@ -20,6 +21,7 @@ function Survey() {
           <br></br>
           <button>submit</button>
         </form>
+    </div>
     </div>
   );
 }
