@@ -23,8 +23,15 @@
   margin-top: -15px;
 }
 
+.wrapper-survey {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
 .form {
   padding-right: 20px;
+  text-align: center;
 }
 
 .label {
