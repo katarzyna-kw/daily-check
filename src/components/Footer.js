@@ -3,7 +3,7 @@ import '../App.css';
 function Footer() {
   return (
     <div className="wrapper-footer">
-        this is the footer
+        2021, Katarzyna-KW.
     </div>
   );
 }
