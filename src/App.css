@@ -46,10 +46,11 @@
 
 }
 
-.label {
-  padding-right: 20px;
+.buttonWrapper {
+  text-align: center;
 }
 
 button {
   margin-top: 30px;
+  width: 40%;
 }

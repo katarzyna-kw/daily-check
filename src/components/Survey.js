@@ -15,7 +15,9 @@ function Survey() {
           </label>
           <input className="input" type="text" />
           <br></br>
-          <button>submit</button>
+          <div className="buttonWrapper">
+            <button>submit</button>
+          </div>
         </form>
     </div>
     </div>
