@@ -26,19 +26,18 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: center;
 
 }
 
 .wrapper-survey {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
   margin-top: 30px;
 }
 
-
+.form {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
 .form input {
   padding-left: 0;
 }

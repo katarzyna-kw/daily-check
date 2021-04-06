@@ -6,12 +6,12 @@ function Survey() {
     <div className="wrapper-survey">
         <form className="form">
           <label className="label">
-            Date: 
+            Date
           </label>
           <input className="input" type="text" />
           <br></br>
           <label className="label">
-            Mood: 
+            Mood
           </label>
           <input className="input" type="text" />
           <br></br>
