@@ -48,6 +48,12 @@
   margin-bottom: 15px;
 }
 
+input[type="date"]
+{
+  font-family: 'Arial', sans-serif;
+}
+
+
 .buttonWrapper {
   text-align: center;
 }
