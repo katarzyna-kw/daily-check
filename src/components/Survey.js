@@ -25,9 +25,7 @@ function Survey() {
     <div class="container-survey">
       <div className="wrapper-survey">
           <form className="form">
-            <label 
-              className="label"
-              >
+            <label className="label">
               Date
             </label>
             <input 
@@ -39,8 +37,11 @@ function Survey() {
             <label className="label">
               Mood
             </label>
-            <input className="input" type="text" />
-            <br></br>
+            <input 
+              className="input" 
+              type="text"
+              onChange={(e) => setMood(e.target.value)}
+            />
             <div className="buttonWrapper">
               <button>submit</button>
             </div>
