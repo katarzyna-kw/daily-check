@@ -43,7 +43,7 @@ function Survey() {
               onChange={(e) => setMood(e.target.value)}
             />
             <div className="buttonWrapper">
-              <button>submit</button>
+              <button onClick={handleClick}>submit</button>
             </div>
           </form>
       </div>
