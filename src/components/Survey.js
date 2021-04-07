@@ -33,7 +33,6 @@ function Survey() {
               type="date" 
               onChange={(e) => setDate(e.target.value)}
             />
-            <br></br>
             <label className="label">
               Mood
             </label>
