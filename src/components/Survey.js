@@ -8,7 +8,6 @@ function Survey() {
 
   const handleClick = (e) => {
     e.preventDefault();
-
     const obj = { date, mood };
 
     axios
@@ -17,12 +16,13 @@ function Survey() {
         obj
       )
       .then((response) => {
-        console.log(response);
+        alert("Thank you for checking in today!");
       });
   };
 
+
   return (
-    <div class="container-survey">
+    <div className="container-survey">
       <div className="wrapper-survey">
           <form className="form">
             <label className="label">
