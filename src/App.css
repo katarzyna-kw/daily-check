@@ -68,3 +68,13 @@ button {
   font-size: .9rem;
   color: #0F0066
 }
+
+a {
+  text-decoration: none;
+  color: #0F0066;
+}
+
+a:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
